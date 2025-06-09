@@ -211,7 +211,7 @@ export default function Home() {
       </main>
 
       <footer className="bg-gray-200 py-6 mt-12 text-center text-sm text-gray-700">
-        © {new Date().getFullYear()} Proxy Finder - Tìm proxy nhanh chóng cho Telegram.
+        © {new Date().getFullYear()} Share Proxy - Tìm proxy nhanh chóng cho Telegram.
       </footer>
     </div>
   );
